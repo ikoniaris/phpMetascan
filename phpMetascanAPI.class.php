@@ -1,6 +1,6 @@
 <?php
 
-class phpMetascan
+class phpMetascanAPI
 {
     private $API_ENDPOINT = 'https://api.metascan-online.com/v1/';
     private $API_KEY = '';
