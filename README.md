@@ -1,4 +1,4 @@
 phpMetascan
 ===========
 
-A PHP client for Metascan API
+A PHP client for Metascan Online API
